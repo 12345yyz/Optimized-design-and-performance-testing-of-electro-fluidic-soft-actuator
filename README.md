@@ -1,1 +1,1 @@
-This is a video from the paper Optimized design and performance testing of electro-fluidic soft actuator
+This is a video from the paper optimized design and performance testing of electro-fluidic soft actuator
